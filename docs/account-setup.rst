@@ -112,7 +112,7 @@ After initial setup, you can log into your account at `Landscape SaaS <landscape
 If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` or reach out to Canonical's Customer Success team.
 
 .. LINKS
-.. include:: links.txt
+.. include:: /reuse/links.txt
 
 .. _Canonical Support Portal: https://support-portal.canonical.com
 
