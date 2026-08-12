@@ -1,6 +1,6 @@
 // Replaces rtd-address with new-address in links
 
-const rtd_address = 'documentation.ubuntu.com/pro';
+const rtd_address = 'canonical-ubuntu-pro-docs-proxy.readthedocs-hosted.com';
 const new_address = 'ubuntu.com/pro/docs';
 const new_path = '/' + new_address.split('/').slice(1).join('/');
 
